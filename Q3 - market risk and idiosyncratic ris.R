@@ -50,7 +50,7 @@ reported_betas <- data.frame(
            "ABN_AMRO_BANK", "BANK_OF_IRELAND_GROUP", "ALPHA_SERVICES_AND_HOLDINGS",
            "BANCA_MONTE_DEI_PASCHI"),
   ISO_Year = 2024,
-  Reported_Beta = c(1.241638, 1.05, 1.007927, 0.91657, 1.616599, 1.81, 0.461571)
+  Reported_Beta = c(1.23, 1.04, 0.99, 0.91657, 1.22, 0.81, 1.28)
 )
 
 # Merge calculated and reported betas for comparison
